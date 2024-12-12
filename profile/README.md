@@ -49,19 +49,19 @@
 
 ### Frontend
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS%20modules-000000?style=for-the-badge&logo=css%20modules&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/zustand-593D88?style=for-the-badge&logo=zustand&logoColor=white">  
-
+<br/>
 ### Backend 
-<img src="https://img.shields.io/badge/JAVA-0049A1?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQl-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JPA-212121?style=for-the-badge&logo=JPA&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-0049A1?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2.0-21212F?style=for-the-badge&logo=OAuth&logoColor=white"> <img src="https://img.shields.io/badge/REST_API-41454A?style=for-the-badge&logo=rest%20api&logoColor=white"> <img src="https://img.shields.io/badge/Query_DSL-3C5280?style=for-the-badge&logo=querydsl&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/MySQl-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br/> <img src="https://img.shields.io/badge/JWT-212121?style=for-the-badge&logo=json%20web%20tokens&logoColor=white"> <img src="https://img.shields.io/badge/JPA-212121?style=for-the-badge&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon%20web%20services&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon%20ec2&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+<br/><br/>
 
 
 ### 개발 환경
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij_-black?style=for-the-badge&logo=Intellij&logoColor=white"> 
-<br/>
-
-### 협업
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white">
 <br/><br/>
+### 협업
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+<br/><br/><br/>
 
 
 
