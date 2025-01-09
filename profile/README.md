@@ -32,15 +32,14 @@
 
 ## 팀원 소개 👋
 
-|[김경아](https://github.com/201810902)|[건용](https://github.com/gunyongbok)|[김동건](https://github.com/DGKIMb)|[나원준](https://github.com/jjoonyna)|
-|:----:|:----:|:----:|:----:|
-|<img src="https://github.com/FRONTENDSCHOOL6/react-project-7/assets/101504272/17d2c78a-28c1-4838-809c-80e029569568" width="200">|<img src=">|<img src=" width="200">|<img src="https://github.com/user-attachments/assets/8f848ed1-d0c3-4533-9731-1afa2802ba59" width="170">|
+|[김경아](https://github.com/201810902)|[김동건](https://github.com/DGKIMb)|[나원준](https://github.com/jjoonyna)|
+|:----:|:----:|:----:|
+|<img src="https://github.com/FRONTENDSCHOOL6/react-project-7/assets/101504272/17d2c78a-28c1-4838-809c-80e029569568" width="200">|<img src=" width="200">|<img src="https://github.com/user-attachments/assets/8f848ed1-d0c3-4533-9731-1afa2802ba59" width="170">|
 
 ## 역할 분담 👩🏻‍💻
 | 이름   | (담당파트)                                                    |
 | ------ | ------------------------------------------------------------ |
 | **김경아** | 내용    |
-| **건용** | 내용       |
 | **김동건** | 내용 |
 | **나원준** | 내용 |
 
@@ -104,10 +103,6 @@
     <th>김경아</th>
     <td>회고</td>
   </tr>
-  <tr>
-    <th>건용</th>
-    <td>회고</td>
-    </tr>
       <tr>
     <th>김동건</th>
      <td>회고</td>
